@@ -8,10 +8,10 @@ Clone the Web page poseNet from "https://github.com/Adityasiwan007/computer_visi
 
 How to convert web page poseNet to android app????
 :  Follow the instruction given in link "https://cordova.apache.org"
-   <img src="demo/2.jpg" width="980"> 
+   <img src="demo/2.png" width="980"> 
 
 
 
 Now Compile the generated code to ANDROID STUDIO, which has a setup for cordova.
  
-<img src="demo/1.jpg" width="980">  
+<img src="demo/1.jpeg" width="980">  
