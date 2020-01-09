@@ -13,5 +13,4 @@ How to convert web page poseNet to android app????
 
 
 Now Compile the generated code to ANDROID STUDIO, which has a setup for cordova.
- 
-<img src="demo/1.jpeg" width="980">  
+  
