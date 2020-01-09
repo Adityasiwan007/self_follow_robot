@@ -1,0 +1,58 @@
+{
+  "_from": "git+https://github.com/don/BluetoothSerial.git",
+  "_id": "cordova-plugin-bluetooth-serial@0.4.7",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-bluetooth-serial",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/don/BluetoothSerial.git",
+    "rawSpec": "https://github.com/don/BluetoothSerial.git",
+    "saveSpec": "git+https://github.com/don/BluetoothSerial.git",
+    "fetchSpec": "https://github.com/don/BluetoothSerial.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/don/BluetoothSerial.git#86017ed84ec8fcf0e98c27f11ff698f6f9e0e8c7",
+  "_spec": "https://github.com/don/BluetoothSerial.git",
+  "_where": "/Users/uxgroup4/Desktop/hello",
+  "author": {
+    "name": "Don Coleman",
+    "email": "don.coleman@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/don/BluetoothSerial/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-bluetooth-serial",
+    "platforms": [
+      "android",
+      "ios",
+      "wp8"
+    ]
+  },
+  "deprecated": false,
+  "description": "Bluetooth Serial Communication Plugin",
+  "homepage": "https://github.com/don/BluetoothSerial#readme",
+  "keywords": [
+    "cordova",
+    "bluetooth",
+    "serial",
+    "ble",
+    "arduino",
+    "ecosystem:cordova"
+  ],
+  "license": "Apache-2.0",
+  "main": "./www/bluetoothSerial.js",
+  "name": "cordova-plugin-bluetooth-serial",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/don/BluetoothSerial.git"
+  },
+  "version": "0.4.7"
+}
